@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there :deciduous_tree: I'm @va1entin
+
+- :octocat: I'm a Solutions Engineer at GitHub
+- 🔭 I’m studying Applied Artificial Intelligence at IU International University of Applied Sciences
+- 🐧 I have a Linux systems engineering, software development and DevOps background
+
+:desktop_computer: Every now and then I blog something I've found interesting on my [website](https://valh.io)
 
 <!--
 **va1entin/va1entin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
